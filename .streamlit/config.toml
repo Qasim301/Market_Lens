@@ -1,0 +1,13 @@
+[general]
+title = "MarketLens"
+[theme]
+base = "light"
+backgroundColor = "#F8FAFC"
+primaryColor = "#9AA6B2"
+secondaryBackgroundColor = "#BCCCDC"
+textColor = "#4e5252"
+font = "sans-serif"
+[client]
+toolbarMode = "viewer"
+[server]
+maxUploadSize = 200
