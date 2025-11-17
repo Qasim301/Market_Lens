@@ -6,4 +6,3 @@ python-dotenv
 requests
 beautifulsoup4
 serpapi
-https://hook.us2.make.com/u5tmfdw9bkpo74d3jwbduh25cj176i6j
