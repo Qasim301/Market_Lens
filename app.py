@@ -8,9 +8,9 @@ import requests
 import re
 # 2. Import your modules
 from helpers import viz_utils
-# --- Make.com Configuration ---
+# --- Make.com Configuration --
 MAKE_WEBHOOK_URL = st.secrets.get("MAKE_WEBHOOK_URL")
-# --- 0. COLOR & FONT DEFINITIONS ---
+# --- 0. COLOR & FONT DEFINITIONS --
 COLOR_DARKEST = "#9AA6B2"
 COLOR_LIGHTEST = "#F8FAFC"
 COLOR_MEDIUM = "#BCCCDC"
